@@ -1,4 +1,5 @@
 #!/bin/bash
+#
 # STEP 1 : Understand the definition - what is _______?
 # STEP 2 : Understand how to use it - syntax 
 # STEP 3 : Refer Existing Examples 
